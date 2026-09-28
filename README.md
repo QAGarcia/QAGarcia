@@ -8,7 +8,7 @@ QA com mais de 6 anos de experiência em qualidade de software, da estratégia d
 Aqui estão meus projetos de automação e estudos em qualidade de software.
 
 <a href="https://www.linkedin.com/in/vin%C3%ADcius-garcia-376430256"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" alt="LinkedIn"/></a>&nbsp;&nbsp;
-<a href="mailto:qaviniciusgarcia@gmail.com"><img src="https://cdn.simpleicons.org/gmail" width="30" height="30" alt="E-mail"/></a>
+<a href="mailto:qaviniciusgarcia@gmail.com"><img src="assets/gmail.svg" width="30" height="30" alt="E-mail"/></a>
 
 </div>
 
@@ -44,7 +44,7 @@ Automação de cenários de UI com comandos customizados e boas práticas de org
 <td align="center" width="96"><img src="https://cdn.simpleicons.org/cypress" width="36" height="36" alt="Cypress"/><br/><sub>Cypress</sub></td>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="36" height="36" alt="Playwright"/><br/><sub>Playwright</sub></td>
 <td align="center" width="96"><img src="https://cdn.simpleicons.org/robotframework/ffffff" width="36" height="36" alt="Robot Framework"/><br/><sub>Robot Framework</sub></td>
-<td align="center" width="96"><img src="https://cdn.simpleicons.org/apachejmeter" width="36" height="36" alt="JMeter"/><br/><sub>JMeter</sub></td>
+<td align="center" width="96"><img src="assets/jmeter.svg" width="36" height="36" alt="JMeter"/><br/><sub>JMeter</sub></td>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="36" height="36" alt="Postman"/><br/><sub>Postman</sub></td>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" width="36" height="36" alt="Insomnia"/><br/><sub>Insomnia</sub></td>
 </tr>
