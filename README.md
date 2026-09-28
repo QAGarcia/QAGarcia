@@ -16,6 +16,16 @@ Aqui estão meus projetos de automação e estudos em qualidade de software.
 
 <table>
 <tr>
+<td colspan="2" valign="top">
+
+### 🎓 [edutrack](https://github.com/QAGarcia/edutrack)
+Plataforma de cursos online construída como sistema-alvo (SUT) para automação: suíte de testes E2E e de API, com regras de negócio documentadas, massa de dados determinística e pipeline de CI.
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="16" align="center"/> <sub>Playwright</sub> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="16" align="center"/> <sub>TypeScript</sub> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="16" align="center"/> <sub>NestJS</sub> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="16" align="center"/> <sub>React</sub> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="16" align="center"/> <sub>PostgreSQL</sub> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="16" align="center"/> <sub>Docker</sub> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="16" align="center"/> <sub>GitHub Actions</sub>
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🎭 [velo](https://github.com/QAGarcia/velo)
