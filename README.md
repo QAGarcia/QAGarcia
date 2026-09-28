@@ -50,17 +50,6 @@ Trabalho próximo de engenharia, produto e negócio, tratando qualidade como dec
 
 ## Projetos
 
-<div align="center">
-
-<a href="https://github.com/QAGarcia/velo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=QAGarcia&repo=velo&hide_border=true&bg_color=0D1117&title_color=FACC15&icon_color=FACC15&text_color=C9D1D9"/>
-</a>
-<a href="https://github.com/QAGarcia/Cypress-Projects">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=QAGarcia&repo=Cypress-Projects&hide_border=true&bg_color=0D1117&title_color=FACC15&icon_color=FACC15&text_color=C9D1D9"/>
-</a>
-
-</div>
-
 | Projeto | Escopo | Tecnologias |
 |---|---|---|
 | **[velo](https://github.com/QAGarcia/velo)** | Testes E2E de uma SPA de configuração e compra de veículo: configuração, checkout e consulta de pedidos | Playwright, TypeScript |
