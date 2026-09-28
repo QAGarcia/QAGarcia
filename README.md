@@ -49,27 +49,21 @@ Meu objetivo é garantir que sistemas (inclusive os que usam LLMs) façam o que 
 
 <div align="center">
 
-<a href="https://github.com/QAGarcia/qa-api-tests">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=QAGarcia&repo=qa-api-tests&hide_border=true&bg_color=0D1117&title_color=FACC15&icon_color=FACC15&text_color=C9D1D9"/>
+<a href="https://github.com/QAGarcia/velo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=QAGarcia&repo=velo&hide_border=true&bg_color=0D1117&title_color=FACC15&icon_color=FACC15&text_color=C9D1D9"/>
 </a>
-<a href="https://github.com/QAGarcia/qa-e2e-web">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=QAGarcia&repo=qa-e2e-web&hide_border=true&bg_color=0D1117&title_color=FACC15&icon_color=FACC15&text_color=C9D1D9"/>
-</a>
-<a href="https://github.com/QAGarcia/ai-agent-test-harness">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=QAGarcia&repo=ai-agent-test-harness&hide_border=true&bg_color=0D1117&title_color=FACC15&icon_color=FACC15&text_color=C9D1D9"/>
-</a>
-<a href="https://github.com/QAGarcia/qa-quality-gates">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=QAGarcia&repo=qa-quality-gates&hide_border=true&bg_color=0D1117&title_color=FACC15&icon_color=FACC15&text_color=C9D1D9"/>
+<a href="https://github.com/QAGarcia/Cypress-Projects">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=QAGarcia&repo=Cypress-Projects&hide_border=true&bg_color=0D1117&title_color=FACC15&icon_color=FACC15&text_color=C9D1D9"/>
 </a>
 
 </div>
 
 | Projeto | O que demonstra | Status |
 |---|---|:---:|
-| 🔌 **qa-api-tests** | Testes de API REST: contrato, status, payloads inválidos, autenticação | 🟡 |
-| 🖥️ **qa-e2e-web** | E2E com Page Objects, dados de teste isolados e relatório | 🟡 |
-| 🤖 **ai-agent-test-harness** | Harness para avaliar agentes de IA: casos de prova, uso de ferramentas, regressão de prompts | 🟡 |
-| 🚦 **qa-quality-gates** | Pipeline CI que bloqueia merge quando a qualidade cai | 🟡 |
+| 🎭 **[velo](https://github.com/QAGarcia/velo)** | E2E com Playwright + TypeScript em uma SPA React/Supabase: fluxo de configuração, checkout e consulta de pedidos | 🟡 |
+| 🌲 **[Cypress-Projects](https://github.com/QAGarcia/Cypress-Projects)** | Automação web com Cypress: comandos customizados, boas práticas e cenários de UI | 🟢 |
+| 🤖 **ai-agent-test-harness** | Harness para avaliar agentes de IA: casos de prova, uso de ferramentas, regressão de prompts | ⚪ |
+| 🔌 **qa-api-tests** | Testes de API REST: contrato, status, payloads inválidos, autenticação | ⚪ |
 
 <sub>🟢 pronto · 🟡 em andamento · ⚪ planejado</sub>
 
