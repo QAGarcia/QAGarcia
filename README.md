@@ -7,7 +7,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F2937&height=190&section=header&text=Vinicius%20Garcia&fontSize=44&fontColor=FACC15&animation=fadeIn&desc=QA%20Engineer%20%E2%80%A2%20Automa%C3%A7%C3%A3o%20de%20Testes%20%E2%80%A2%20Agentes%20de%20IA&descSize=16&descAlignY=68&descAlign=50" width="100%"/>
 
 <a href="https://github.com/QAGarcia">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=FACC15&center=true&vCenter=true&width=640&lines=%E2%9A%A1+Da+el%C3%A9trica+para+o+c%C3%B3digo;Encontro+o+bug+antes+do+usu%C3%A1rio;Automatizo+o+que+%C3%A9+repetitivo;Testo+agentes+de+IA%2C+n%C3%A3o+s%C3%B3+telas" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=FACC15&center=true&vCenter=true&width=640&lines=Qualidade+n%C3%A3o+%C3%A9+fase%2C+%C3%A9+cultura;Encontro+o+bug+antes+do+usu%C3%A1rio;Automatizo+o+que+%C3%A9+repetitivo;Testo+agentes+de+IA%2C+n%C3%A3o+s%C3%B3+telas" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -29,7 +29,7 @@
     ✓ quebra o sistema antes que o usuário quebre            (12 ms)
     ✓ transforma teste manual repetitivo em automação        (9 ms)
     ✓ valida agentes de IA: respostas, ferramentas e limites (15 ms)
-    ✓ pensa como eletricista: isola a falha, mede, corrige   (6 ms)
+    ✓ investiga a causa raiz, não só o sintoma               (6 ms)
   Em construção
     ○ skipped  SaaS próprio com testes desde o primeiro commit
 
@@ -37,9 +37,9 @@ Tests:  4 passed, 1 skipped, 5 total
 Time:   sempre aprendendo
 ```
 
-Vim da **elétrica** — onde um erro não vira ticket, vira curto-circuito. Levei essa mentalidade para software:
-diagnosticar pela causa, não pelo sintoma. Hoje trabalho com **automação de testes, agentes de IA e _test harness_**,
-e meu foco é garantir que sistemas (inclusive os que usam LLMs) façam o que prometem — de forma previsível.
+Sou QA com foco em **automação de testes, agentes de IA e _test harness_**. Para mim, qualidade não é uma etapa
+no fim da sprint, é uma prática contínua: entender o risco, automatizar o que é repetitivo e dar feedback rápido ao time.
+Meu objetivo é garantir que sistemas (inclusive os que usam LLMs) façam o que prometem — de forma previsível.
 
 ---
 
