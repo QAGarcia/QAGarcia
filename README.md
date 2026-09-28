@@ -8,7 +8,7 @@ QA com mais de 6 anos de experiência em qualidade de software, da estratégia d
 Aqui estão meus projetos de automação e estudos em qualidade de software.
 
 <a href="https://www.linkedin.com/in/vin%C3%ADcius-garcia-376430256"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" alt="LinkedIn"/></a>&nbsp;&nbsp;
-<a href="mailto:qaviniciusgarcia@gmail.com"><img src="assets/gmail.svg?v=2" width="30" height="30" alt="E-mail"/></a>
+<a href="mailto:qaviniciusgarcia@gmail.com"><img src="assets/gmail-icon.svg" width="30" height="30" alt="E-mail"/></a>
 
 </div>
 
