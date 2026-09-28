@@ -15,7 +15,7 @@ Aqui estão meus projetos de automação e estudos em qualidade de software.
 ## 🧪 Projetos
 
 <table>
-<tr>
+<tbody><tr>
 <td colspan="2" valign="top">
 
 ### 🎓 [edutrack](https://github.com/QAGarcia/edutrack)
@@ -24,8 +24,8 @@ Plataforma de cursos online construída como sistema-alvo (SUT) para automação
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="16" align="center"/> <sub>Playwright</sub> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="16" align="center"/> <sub>TypeScript</sub> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="16" align="center"/> <sub>NestJS</sub> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="16" align="center"/> <sub>React</sub> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="16" align="center"/> <sub>PostgreSQL</sub> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="16" align="center"/> <sub>Docker</sub> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="16" align="center"/> <sub>GitHub Actions</sub>
 
 </td>
-</tr>
-<tr>
+</tr></tbody>
+<tbody><tr>
 <td width="50%" valign="top">
 
 ### 🎭 [velo](https://github.com/QAGarcia/velo)
@@ -42,7 +42,7 @@ Automação de cenários de UI com comandos customizados e boas práticas de org
 <img src="https://cdn.simpleicons.org/cypress" height="16" align="center"/> <sub>Cypress</sub> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="16" align="center"/> <sub>JavaScript</sub>
 
 </td>
-</tr>
+</tr></tbody>
 </table>
 
 ## 🛠️ Stack
@@ -50,30 +50,30 @@ Automação de cenários de UI com comandos customizados e boas práticas de org
 <div align="center">
 
 <table>
-<tr>
+<tbody><tr>
 <td align="center" width="96"><img src="https://cdn.simpleicons.org/cypress" width="36" height="36" alt="Cypress"/><br/><sub>Cypress</sub></td>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="36" height="36" alt="Playwright"/><br/><sub>Playwright</sub></td>
 <td align="center" width="96"><img src="https://cdn.simpleicons.org/robotframework/ffffff" width="36" height="36" alt="Robot Framework"/><br/><sub>Robot Framework</sub></td>
 <td align="center" width="96"><img src="assets/jmeter.svg" width="36" height="36" alt="JMeter"/><br/><sub>JMeter</sub></td>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="36" height="36" alt="Postman"/><br/><sub>Postman</sub></td>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" width="36" height="36" alt="Insomnia"/><br/><sub>Insomnia</sub></td>
-</tr>
-<tr>
+</tr></tbody>
+<tbody><tr>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript"/><br/><sub>JavaScript</sub></td>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript"/><br/><sub>TypeScript</sub></td>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js"/><br/><sub>Node.js</sub></td>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="36" height="36" alt="NestJS"/><br/><sub>NestJS</sub></td>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL"/><br/><sub>PostgreSQL</sub></td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws" width="36" height="36" alt="AWS"/><br/><sub>AWS</sub></td>
-</tr>
-<tr>
+</tr></tbody>
+<tbody><tr>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="36" height="36" alt="Grafana"/><br/><sub>Grafana</sub></td>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" alt="Docker"/><br/><sub>Docker</sub></td>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git"/><br/><sub>Git</sub></td>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="36" height="36" alt="GitHub Actions"/><br/><sub>GitHub Actions</sub></td>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" width="36" height="36" alt="Azure DevOps"/><br/><sub>Azure DevOps</sub></td>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python"/><br/><sub>Python</sub></td>
-</tr>
+</tr></tbody>
 </table>
 
 </div>
