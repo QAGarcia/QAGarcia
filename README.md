@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1400&color=00FF41&center=true&vCenter=true&width=600&lines=6%2B+anos+em+sistemas+cr%C3%ADticos;Estrat%C3%A9gia+de+testes+orientada+a+risco;Automa%C3%A7%C3%A3o+Web+e+API;IA+aplicada+a+QA" alt="Typing SVG"/>
 
-QA com mais de 6 anos em sistemas críticos das áreas financeira e de saúde.<br/>
+QA com mais de 6 anos de experiência em qualidade de software, da estratégia de testes à automação.<br/>
 Aqui estão meus projetos de automação e estudos em qualidade de software.
 
 <a href="https://www.linkedin.com/in/vin%C3%ADcius-garcia-376430256"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41"/></a>
